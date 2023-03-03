@@ -1,0 +1,9 @@
+.main_bg img{
+    width: 100%;
+  }
+  
+  @media screen and (max-width:768px){
+    .bottom-bg img{
+      width: 140px;
+    }
+  }

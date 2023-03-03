@@ -1,0 +1,25 @@
+.main_bg img{
+    width: 100%;
+  }
+  
+  .camera_img{
+    margin-top: -150px;
+  }
+
+  .camera_img img{
+    width: 400px;
+  }
+
+  
+  @media screen and (max-width:768px){
+    .camera_img{
+      margin-top: -100px;
+    }
+    
+    .camera_img img{
+      width: 300px;
+    }
+    .bottom-bg img{
+      width: 140px;
+    }
+  }
